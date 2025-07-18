@@ -1,0 +1,17 @@
+# ignore log files
+*.log
+
+# ignore backup folder for now
+backup/
+
+# ignore all .tmp files for now
+*.tmp
+
+# ignore __pycache__ folder
+__pycache__
+
+# ignore .env file maybe it contains sensitive information, use .env.sample (carefully)
+.env
+
+# ignore virtual env folder 
+venv/
