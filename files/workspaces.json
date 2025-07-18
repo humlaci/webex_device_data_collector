@@ -1,0 +1,2441 @@
+{
+    "items": [
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzYzYmE2MjY1LTY4OGEtNDE1Mi1iOTJhLTM4OGMxNmZmNjZhMw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "101 betárolás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "101_betrols@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:30:24.169Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2YwY2VhM2U3LWFlOWItNGU4MS1hOTY1LTIxZmNhMzljODM3Nw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "101 revizor",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "101_revizor@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:33:15.011Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2JkODU1ODcxLWJmZjUtNDQwYy1hMDg0LWFjNjM4NDJiODg0OA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "107-es raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "107-es_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:34:46.335Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzZlOGY2MmIxLWNmZGEtNDQwMS1iY2I0LTcwZmJiMDA5ODY2ZA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Áruátvétel",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel520411@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:51:47.589Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzk3NTBhZWFjLTMxMTUtNGU3Yi05NjY2LTE0ZWQ3ZDFlZTY4OQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Áruátvétel",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:31:01.342Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzQ2YTlmN2JmLTBhYzgtNGI4Ny04ZGQ1LWFlYTRhNjk4Y2JlNA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Áruátvétel",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel571450@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:23:38.444Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzJkNDBmNzU5LTZjNDEtNGY0Yy1hM2NmLTU3MmI2MGNmMDU1NA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Áruátvétel",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel543586@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:17:35.425Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzRiMDEzZGRmLTIyZWYtNGRhZS1hNzQxLTc5YzkwOTk4NDdhYw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "Áruátvétel",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel594858@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:09:23.831Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzRjOWRlMzE4LTRmNTAtNDg5OS1iNjE3LWY1ZWQyMWIyZTVkOA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Áruátvétel Fót",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel_ft@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:46:42.118Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzM4NTVlNjZjLTg1MDEtNDIxNS1iNWM3LTJhODBmYTdiZDcwOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Áruátvétel Kecskemét",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel_kecskemt020656@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:16:15.867Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzg5ZThkN2YyLTE1NDktNDhjZi1hNWE2LTA2YzUzNTgzNTZkMg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Áruátvétel, Kecskemét",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rutvtel_kecskemt@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:15:42.456Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzI0ODg4ZjQwLWUyNmEtNDZmZS1hMGRkLWFhZjdkMmYxMTdkMQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Árukiadó",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "rukiad@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:18:44.105Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzdmZjY3OGNlLTRkMzEtNGMzZi04NjM3LTUxODA2Y2YzMGFlOA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Astellas",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "astellas@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:55:22.287Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzk5MjY2NmQyLWY4MjgtNGNhMC1hMTczLWFmNDcxMTRmZTgxMw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Automata indító pont",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "automata_indt_pont@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:19:54.093Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzcxYTQyZTZiLWI5OWEtNDJiNC05NGFjLWEzYzQ4YmQ5NDVmZQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Automata lehívás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "automata_lehvs@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:55:55.568Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzlhZDVlNzUzLTcxY2EtNGQ0Zi1iOGFhLTAxODMwNTE5MDRjOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "bálás, tápszer raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "bls_tpszer_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:17:47.019Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzRiMzkzMzRhLThkOGMtNDMzMy04MjBjLWQ3NTUyY2U3Y2JkYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Bódis Gézáné",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "bdis_gzn@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:19:51.323Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzI2MWY1YWYxLWZiZWItNDhlYS1hMTI0LWM4ODUxOWQxMGVjNQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "CC éjszakai",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "cc_jszakai@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:39:47.436Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzIxY2Y4ODZhLWQwMTItNGQ0Yy04Y2I4LTY4MWVhZWNkNjQ2YQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "East Gate 1.",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "east_gate_1@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:50:33.915Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzI4ZWQ3NTU0LWQ3ODAtNDUwMi1iZjkzLWRjY2MyNzk2YzhkYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Eastgate 2.",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "eastgate_2@phoenixpharma.rooms.webex.com",
+            "created": "2025-05-26T07:04:40.789Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2RjOTIyYzgzLTk5NTctNDNkYi04MTQ3LTAyMTlhNmYwOTUxZQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Expedíció",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "expedci@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:46:05.638Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzZlMmEzMTNkLTEwOTMtNDYzMC1iZjc0LTdhNGU2YmM4OWYyYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Exped.Számlázás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "expedszmlzs@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:19:38.783Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2ZjYmRjNTg1LWEwYTAtNDdiYi04OGQzLTU5ZmZhOWVlNzI3Ng==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "feltöltők, betárolók",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "feltltk_betrolk@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:16:47.444Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzQ4NjVhMWVkLTc5NTEtNGJiYS04YzY0LTMzZDcxMTEwMDU4MA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Fénymásoló",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "fnymsol@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:56:32.450Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2QwOGJkZTc3LWZlMjUtNDJjMi05ZjY1LTA1YWU0MmRiMmZmOA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Forgó iroda",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "forg_iroda@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:43:56.916Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzg4NmQxOGQ3LTg0NGQtNDFlMi04Y2QxLWE3YzQzZGM1MzhhNw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Forgóraktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "forgraktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:36:03.359Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzJjODY0ZWQ5LTAwNmUtNDZhOC1hZGIyLWIyYjQ4ZGFiZDg0Zg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Gyártó helyiség",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "gyrt_helyisg@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:40:25.284Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzdhYjA4ZmZmLWQ0Y2ItNDFkNS04NmY2LTQzOGRjYTBhNjZlMw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Hátsó porta",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "hts_porta@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:15:17.165Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzMyNmVmZmY0LTc2YTgtNDMzMy1hOGU1LWRmYjMyYjc4MThmOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Hűtő",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "ht@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:57:08.636Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzE5MjRkNzQ3LTM5ZjgtNGI4OS1iN2EwLTA2ZjI2MzM5YWFjNw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Hűtő raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "ht_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:20:45.434Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzgyYWY4NTlmLWQxZDYtNDdiNS04ZjlmLTFiMjcxNWU1MDBjMA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "Hűtős",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "hts@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:06:32.459Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzFjZGNhNTZiLTU0ODgtNGJhMi1hMjE3LTcwNmE3N2FjZTMwMQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Hűtős kiszedés",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "hts_kiszeds@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:20:25.368Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzk1YjljMWQwLTQ1YWQtNGQzZC1iODc0LTI4OTk3NmVjM2EyYg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Hűvös raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "hvs_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:31:26.879Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2U4ZmFmNmNjLWVjNzctNDdhZi05OGZmLTNiODk4YmRjZWYwYw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "I pont",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "i_pont@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:30:58.023Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzI5ODEwNTVmLTA5YzMtNDI1MC04YjRmLTY4ZDBjMjExMDFhNg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "I-pont",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "i-pont@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:07:32.388Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzZhOWJiMjM3LTVmZjgtNDg2ZC05YjA1LThhNzNjNTc4NjQ5Ng==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Kábító",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbt@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:29:37.013Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzhjNGY1YjViLWJmZWQtNGVkNi04MmRlLWMwOWY4ZmM0MGI1Mw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Kábító raktár Győr",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbt_raktr_gyr@phoenixpharma.rooms.webex.com",
+            "created": "2025-07-04T08:05:13.397Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzcxNTE0YzQ5LTIzNDctNDcyYi1iZGQwLWQ4Yzc1Y2YzY2IzYg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Kábítószer iroda",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbtszer_iroda@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:19:14.984Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2E5Y2Q4YzA5LTU2OGQtNDkzZi1hYjc3LWY4NjJkNzFmNDgzYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Kábítószerraktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbtszerraktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:18:03.256Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzAyODU2M2M0LTFmZWYtNDIzNC1hN2U1LTdkMTgxZTBkMDNmNQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "Kábítószer raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbtszer_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:08:40.073Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzAzZWJlOGFlLWE1M2YtNDYyYy05YjdjLTk3Y2IyNGU2NjBlYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Kábítószer-raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbtszer-raktr212005@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:51:12.190Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzFmYTEwOGRjLWQ3YmMtNDFhMy1iM2Q0LTI2ZTJkNzg4NmQxMA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Kábítószer-raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kbtszer-raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:47:47.992Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2QyYzc0ZjM1LTkyYzItNGNjMS1hMjFkLTFkMmNjNWI3MTdjOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Kistena Győr",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kistena_gyr@phoenixpharma.rooms.webex.com",
+            "created": "2025-07-04T08:40:48.975Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2VhN2VmZDdhLWY3ZTItNDYzNy05ODM1LTUwMzEwNjM4MmQ2Yg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Kiszedo raktar",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kiszedo_raktar@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:31:54.013Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2M3OWMzNjQ4LTBiODEtNDQ5My05NTQ3LTE0NDRiYzIzMTJlNg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Konszig.raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "konszigraktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:35:27.234Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzI2MDE3ZTQ5LTgwODUtNGMxYi1hNjdkLTBiMzI2NDE5NTBkMA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Konszig. Raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "konszig_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:37:37.995Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzY2ZjEyMjYwLTJkYzgtNGFlNy05YWIxLWI5Y2NjYWUyMDI2ZQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Központi hívószám",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "kzponti_hvszm@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-03T08:42:43.295Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "notes": "",
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzIyYWUxMjc3LTNmNzYtNDYxNi1iZjVlLTBjNDk4ODNkNjAwNg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Lehívás 101",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "lehvs_101@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:31:40.670Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzUyOGIwNTFlLWViZTYtNDEyZC04YmNlLTkzMzMxNjQ0ODMzZA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Lehívó 1.",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "lehv_1@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:18:56.249Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzVkZWNmYTA4LTA4NGEtNDA1Yi1hMThiLWU2NDczZTI0YjhmYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Magi I-pont",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "magi_i-pont@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:20:11.471Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2I1ZWZkNDA5LWUzNmEtNDU4ZS05NmJjLTEzYTc0YTcxNTM4Nw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Minőségbiztosítás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "minsgbiztosts@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:27:09.455Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzcwYzE5ZjFlLWQ0NjAtNDA0Ny04N2NiLTU5NDMxNGMxMGMwYg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Minőségbiztosítás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "minsgbiztosts951704@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:44:33.165Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2ZkMDg1MjQ1LTM1Y2EtNDQwZC05ZDgxLTNmMzMyNmRlMDJlOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Minőségbiztosítás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "minsgbiztosts269254@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:24:13.167Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2ExMGNjYTU4LWNjNWUtNDljMC1hNmMxLTAxNTc2NDY0OGJhOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Minőségbizt. rakt.",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "minsgbizt_rakt@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:17:04.126Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzNiNjE3NjRlLTllNDctNDViYy05ZmM0LTA0OWY5Y2U5NmExNg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "Nagy volumen",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "nagy_volumen@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:08:08.098Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzIwN2Y5MWFkLTU5MmItNDYyYy1hOTk0LTZlMjFhZDU5MzU0Mw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Nagyvolumen Győr",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "nagyvolumen_gyr@phoenixpharma.rooms.webex.com",
+            "created": "2025-07-04T08:38:56.720Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzk0OGMxMjhiLTFkOGYtNGQxNi1hMmVlLWQzNzBhM2I1NTk3Mg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Nagyvolumenű raktár",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "nagyvolumen_raktr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:32:55.035Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzU4MmIwYTdkLTM1MzMtNDJmMS1hZmEyLTJkZWMxMzIyYTQ4Mw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Pelenka",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "pelenka@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:47:14.874Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2M3ZDU2Nzk3LWY3MDItNDkyYi05NjM4LWE4YzYyMjcwMzE0Ng==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "PEM betárolás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "pem_betrols@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:54:09.131Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzJiMzEzYzMzLThkZTgtNGM0NS05Y2FhLTFiZjVlYWUxNzFmOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "PEM revizor",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "pem_revizor@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:53:33.627Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzAwZDRkYjA0LTMzODYtNDM5NS04NmJjLWMwOWNlMzFiMWI3Yw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Porta",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "porta@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-03T08:37:04.155Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzEzNTZjNGEyLWI0MjAtNDVjNi1iMGUyLTVlODY5YTA4MDdkNg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Porta",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "porta340246@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:16:38.867Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2FjZjdkNGIwLTg3NWUtNDQ2MS04ODliLTAxYWVkNGEzNDk1OA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "Porta",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "porta569227@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:06:02.176Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzE4NGExYmY0LWI5OTAtNGQwNy04MDFiLWQxYWEwYjc1ODdjMw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Porta",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "porta127989@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:14:17.961Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2ZiOTE0N2M3LTczOTAtNDIyMi04NjRiLWUzODQ2NjFiZjQ4OA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Postazo",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "postazo@phoenixpharma.rooms.webex.com",
+            "created": "2025-05-26T09:37:45.139Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzc3N2Y0MWY1LWE5NzMtNDQxZS05MzM0LWUwMmE1ZWQ5NmRkZQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Raktári áruátvevő",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "raktri_rutvev@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:30:31.123Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2M4OWEwYjJkLWY3MzUtNDY5My1iNDlmLTI0NDZhZDRmNTJiYQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Raktári számlázás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "raktri_szmlzs@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:30:04.319Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2NjMzljZjFlLTE5MWQtNDQyYy1iZTg4LWE2ZGM5MDAzZjY5Nw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Reklamáció",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "reklamci184586@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:45:27.952Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzA4NzM3YTkyLTdlYjYtNGNiYy1iNGQxLTdjZDg5OWNjMDM3MA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Reklamáció",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "reklamci438441@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:22:29.289Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzRhODY3MTlkLTk1M2QtNGMxZi04ZGU0LTgxMzA3NzdkNmEyNA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Reklamáció",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "reklamci812190@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:18:29.407Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzI3M2Y5NTk4LWQxOWQtNDI1Yy1hNGIwLWZlODZkYjBjY2JlNw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Reklamáció",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "reklamci507480@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:18:17.471Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2UxOTAyZmYwLTA3ZjAtNDZhMS1hOWI5LWYzYzYwOWMzMzAxYw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Reklamáció Fót",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "reklamci_ft@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-05T12:48:06.994Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzViZDJlMTMzLTg4YWEtNDc0ZC1hM2UxLTRkZDg5Zjg1MWVmMw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODg1NjQxMTctYjYwZC00ODllLWJlZDAtYzQxNWVkZGFmNjI0",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg4NTY0MTE3LWI2MGQtNDg5ZS1iZWQwLWM0MTVlZGRhZjYyNA",
+            "displayName": "Reklamáció Polgár",
+            "capacity": 1,
+            "type": "focus",
+            "sipAddress": "reklamci_polgr@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:07:03.922Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzQwMGFjNzEzLTNmYjEtNGNlZS04OGQ1LTU1MjdhY2Q5YjQ1NA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Revízió",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "revzi@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T13:24:51.347Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzIwYmI2NTdmLTgxOTYtNDEzYi05Yzg5LTFlNTcwYmFkYjQ5MA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "speci végellenőrök",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "speci_vgellenrk@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:17:16.872Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2U5Njc5NGY1LTA2ZWEtNGNhOS04ZjM0LWYzM2MwOGZhMDRkOA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Szakács Szilvia",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "szakcs_szilvia@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-10T08:31:42.621Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2I1NGRjNGE4LTUzZjUtNGQ5Ny1iNzY1LTJjZWE1YjMxNzkyNg==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Szállítás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "szllts@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:29:02.949Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2ZhMTMwMGIyLTRkNzctNDdlMC1hYzVhLTNiM2Y1ZmE5MmNjNw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNjAxY2YyZWUtYmU4Yi00ODBlLThmNTUtMjMxMTgyZmExNDkz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzYwMWNmMmVlLWJlOGItNDgwZS04ZjU1LTIzMTE4MmZhMTQ5Mw",
+            "displayName": "Számlázás",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "szmlzs@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:15:45.132Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzA5YzdlZjU3LWY1MDMtNDM0Yi1iYmE0LTczMTQ4N2Q5YTU5ZA==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "Technikusok",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "technikusok@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:54:46.088Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzJjMWIyYTYwLTkzZDYtNGUzMC1iMTRmLWE2YWM5M2MzOTVmNw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjNDg0Y2VhMTEtOTZkNS00ZDg3LTk2MWEtYjc0YTgzYTY3NDc2",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzQ4NGNlYTExLTk2ZDUtNGQ4Ny05NjFhLWI3NGE4M2E2NzQ3Ng",
+            "displayName": "Titkárság",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "titkrsg742065@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-25T07:53:51.862Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2U2MzA2ZjBkLTQ2ZGQtNGJhYy1hYTM4LTRhZGJkODE1NDNlOQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjY2Q3NTI1OTktMTdhMi00NmE2LWJmYjAtYjhiMDcyZDRmMzg1",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2NkNzUyNTk5LTE3YTItNDZhNi1iZmIwLWI4YjA3MmQ0ZjM4NQ",
+            "displayName": "Titkárság",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "titkrsg@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-11T14:15:06.331Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2Y1OTk0YmFlLWViODktNGU5Mi1iODU3LTcwZDc2MjYzZmI4YQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Titkárság Szeged",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "titkrsg_szeged@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:28:10.656Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFL2I0ZjZmMDkyLTU5ZjAtNGU2Yy04Y2YzLWEwYmE1NjczYmRkMw==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjMzk1MTU0MDMtYmVlNy00ZDQxLWIwODQtYTZkNDQxMjJjMmEz",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzM5NTE1NDAzLWJlZTctNGQ0MS1iMDg0LWE2ZDQ0MTIyYzJhMw",
+            "displayName": "TMK",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "tmk@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-06T12:57:46.820Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1BMQUNFLzgzNjVmZjRmLWUxYWUtNDA1Ny1iYjZjLTIxOGRhOTY1OWMzNQ==",
+            "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2Y",
+            "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1dPUktTUEFDRV9MT0NBVElPTi85MzNmODRhMi1hNjMzLTQ4MmQtOGVjMi05ZDcxYTFmM2RkY2YjODlhMzEyY2QtODc2ZC00NzUyLTgwN2MtMjA3NTRmZjBkZDlm",
+            "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OLzg5YTMxMmNkLTg3NmQtNDc1Mi04MDdjLTIwNzU0ZmYwZGQ5Zg",
+            "displayName": "Vegyszer- olaj o.",
+            "capacity": 1,
+            "type": "desk",
+            "sipAddress": "vegyszer-_olaj_o@phoenixpharma.rooms.webex.com",
+            "created": "2025-06-12T07:28:37.013Z",
+            "calling": {
+                "type": "webexCalling",
+                "webexCalling": {
+                    "licenses": [
+                        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvOTMzZjg0YTItYTYzMy00ODJkLThlYzItOWQ3MWExZjNkZGNmOkJDQ0FfZDliZGMzOGEtMjQ0Ny00ZWZiLTllMGItMWY3OTYyZGQ4MWMw"
+                    ]
+                }
+            },
+            "calendar": { "type": "none" },
+            "hotdeskingStatus": "off",
+            "deviceHostedMeetings": { "enabled": false },
+            "supportedDevices": "phones",
+            "devicePlatform": "cisco",
+            "plannedMaintenance": { "mode": "off" },
+            "health": {
+                "issues": [],
+                "level": "ok"
+            }
+        }
+    ]
+}
