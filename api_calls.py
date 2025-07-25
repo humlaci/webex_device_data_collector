@@ -7,6 +7,7 @@ from dotenv import dotenv_values
 import requests
 import json
 from time import sleep
+from loguru import logger
 
 # Module Constants
 
@@ -35,6 +36,7 @@ def send_request(url,type="GET", payload=None) -> requests.Response:
     while True:
         match type:
             case "GET":
+                logger.debug(url)
                 response = requests.get(url, headers=my_headers)
             case "PUT":
                 pass
@@ -45,11 +47,12 @@ def send_request(url,type="GET", payload=None) -> requests.Response:
             case _:
                 pass
         if response.status_code == 429:
-            print(f"Too many requests, wait for: {response.headers["Retry-After"]}s")
+            logger.warning(f"Too many requests, wait for: {response.headers["Retry-After"]}s")
             sleep(int(response.headers["Retry-After"]))
         elif response.status_code == 200:
             return response
         else:
+            logger.error(response.status_code)
             return None
         
     return None
@@ -59,23 +62,61 @@ def list_devices() -> dict | None:
     api_url = "https://webexapis.com/v1/devices?max=200"
     
     response = send_request(api_url)
+    if response:
+        try:
+            if response.headers["link"]:
+                next_link = str(response.headers["link"]).split(";")
+                next_link = str(next_link[0])
+                next_link = next_link.replace("<","")
+                _ = input(f"There is more result on this link: {next_link}, press any key to continue")
+                logger.info(f"There is more result on this link: {next_link}")
+        except KeyError as e:
+            pass
+        
+        devices = json.loads(response.text)
+        return devices
+    return None
+
+def list_number_associated_with_workspace(workspace_id: str) -> list:
+    """List numbers associated with a specific workspace"""
+    api_url = f"https://webexapis.com/v1/workspaces/{workspace_id}/features/numbers"
+    
+    response = send_request(api_url)
     try:
         if response.headers["link"]:
             next_link = str(response.headers["link"]).split(";")
             next_link = str(next_link[0])
             next_link = next_link.replace("<","")
             _ = input(f"There is more result on this link: {next_link}, press any key to continue")
+            logger.info(f"There is more result on this link: {next_link}")
     except KeyError as e:
         pass
     
-    devices = json.loads(response.text)
-    return devices
+    workspace = json.loads(response.text)
+    return workspace
+
+def get_person_details(person_id: str) -> list:
+    """Get Person Details"""
+    api_url = f"https://webexapis.com/v1/people/{person_id}"
+    
+    response = send_request(api_url)
+    try:
+        if response.headers["link"]:
+            next_link = str(response.headers["link"]).split(";")
+            next_link = str(next_link[0])
+            next_link = next_link.replace("<","")
+            _ = input(f"There is more result on this link: {next_link}, press any key to continue")
+            logger.info(f"There is more result on this link: {next_link}")
+    except KeyError as e:
+        pass
+    
+    user = json.loads(response.text)
+    return user
+    
 
 def main(*args):
     """Program execution starts here."""
-    devices = list_devices()
-    print(devices)
-    
+    """Nothing to do here -> this module is imported by main.py"""
     
 # Check to see if this file is the "__main__" script being executed
 if __name__ == '__main__':

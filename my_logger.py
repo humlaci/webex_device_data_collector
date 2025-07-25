@@ -38,7 +38,7 @@ def logger_init() -> None:
     logger.add("app.log", level=log_level)
     
     # functions.py will be logged functions.log also (and app.log as wells) (func2 comes from functions.py)
-    logger.add("functions.log", colorize=True, format="{time} | {level} | {module}:{function}:{line} - {message}", filter="functions", level=log_level)
+    logger.add("functions.log", colorize=True, format="{time} | {level} | {module}:{function}:{line} - {message}", filter="api_calls", level=log_level)
     
     return None
 

@@ -9,6 +9,10 @@ from functions import func2
 from dotenv import dotenv_values
 from my_logger import logger_init
 import json
+import api_calls
+
+# Module constants
+OUTPUT_FILE = "result.csv"
 
 # .env
 config = dotenv_values()
@@ -24,96 +28,109 @@ locations = {
 }
 
 # Funtcions and Classes
-def get_phonenumbers(person_id:str, users) -> str | None:
-    """Returns person extension and e164 phone number"""
-    # print(users["items"][0]["id"])
-    for user in users["items"]:
-        if person_id == user["id"]:
-            # print("found")
-            # print(user["phoneNumbers"])
-            # print(user["phoneNumbers"][0]["value"])
-            # print(user["phoneNumbers"][1]["value"])
-            return f'{user["phoneNumbers"][0]["value"]},{user["phoneNumbers"][1]["value"]}'
-    return f"<no numbers>"
+def init_output() -> None:
+    """empty out output file"""
+    
+    with open(OUTPUT_FILE, "w", encoding='utf-8') as outputbf:
+        outputbf.write("")
+    return None
+
+def write_output(content:str) -> None:
+    """Generate result file"""
+    
+    with open(OUTPUT_FILE, "a", encoding='utf-8') as outputbf:
+        outputbf.write(f"{content}")
+    return None
+    
 def main(*args, **kwargs) -> None:
     """Program execution starts here"""
     logger_init()
+    init_output()
     
-    msg = 'main'
-    logger.debug(f'This is a debug message {msg}')
-    logger.info(f'This is an info message {msg}')
-    logger.warning(f'This is a warning message {msg}')
-    logger.error(f'This is an error message {msg}')
-    logger.critical(f'This is a critical message {msg}')
-
-    func2()
+    all_devices = api_calls.list_devices()
     
-    # TODO
-    # Step1 remove all static files stuff move to API request
-    # Step2 environment variables for access token
-    # Step3 prepare API for 429 requests (retry-after header)
-    # Step3 get all device api call
-    # Step4 get the ddevice data (id, location, max, type, etc)
-    # Step5 if the devive has personID -> Get the person details collect the numbers
-    # Step6 if the device has placeID -> Get the workspace details collect the numbers
-    with open("files/devices.json", "r", encoding='utf-8') as devicesbuff:
-        devices = json.load(devicesbuff)
+    sum = 0;
+    workspace_num = 0;
+    user_num = 0
     
-    with open("files/users.json", "r", encoding='utf-8') as usersbuff:
-        users = json.load(usersbuff)
-        
-    with open("files/workspaces.json", "r", encoding='utf-8') as workspacesbuff:
-        workspaces = json.load(workspacesbuff)
-    
-    for device in devices["items"]:
-        try:
-            print(device["product"], end='')
-            print(", ", end='')
-        except KeyError as e:
-            print("<no product>", end='')
-            print(", ", end='')
-
-        try:
-            print(device["mac"],  end='')
-            print(", ", end='')
-        except KeyError as e:
-            print("<no mac>", end='')
-            print(", ", end='')
-            
-        try:
-            print(device["serial"],  end='')
-            print(", ", end='')
-        except KeyError as e:
-            print("<no serial>", end='')
-            print(", ", end='')
-            
-        try:
-            print(device["displayName"],  end='')
-            print(", ", end='')
-        except KeyError as e:
-            print("<no display>", end='')
-            print(", ", end='')
-        try:
-            print(locations[device["locationId"]],  end='')
-            print(",", end='')
-        except KeyError as e:
-            print("<no location>", end='')
-            print("", end='')
+    for device in all_devices["items"]:
         try:
             if device["placeId"]:
-                print("<workspace device>", end='')
+                # logger.info(f"This is a workspace device")
+                workspace_num = workspace_num + 1
+                sum = sum +1
+                
+                workspace = api_calls.list_number_associated_with_workspace(device["placeId"])
+                try:
+                    write_output(f"{device["displayName"]}|")
+                except KeyError as e:
+                    write_output("<no display name>|")
+                
+                try:
+                    write_output(f"{device["product"]}|")
+                except KeyError as e:
+                    write_output("<no product>w")
+                    
+                try:
+                    write_output(f"{device["mac"]}|")
+                except KeyError as e:
+                    write_output("<no mac>w")
+                    
+                try:
+                    write_output(f"{device["serial"]}|")
+                except KeyError as e:
+                    write_output("<no serial>|")    
+
+                try:
+                    write_output(f"{workspace["phoneNumbers"][0]["external"]}|")
+                    write_output(f"{workspace["phoneNumbers"][0]["extension"]}|")
+                except KeyError as e:
+                    write_output("<no phone numbers>|")    
+                write_output("\n")
         except KeyError as e:
             pass
         try:
             if device["personId"]:
-                print(get_phonenumbers(device["personId"], users), end='')
+                logger.info(f"This is a user device")
+                user_num = user_num +1
+                sum = sum +1 
+                
+                user = api_calls.get_person_details(device["personId"])
+                
+                try:
+                    write_output(f"{device["displayName"]}|")
+                except KeyError as e:
+                    write_output("<no display name>|")
+                
+                try:
+                    write_output(f"{device["product"]}|")
+                except KeyError as e:
+                    write_output("<no product>w")
+                    
+                try:
+                    write_output(f"{device["mac"]}|")
+                except KeyError as e:
+                    write_output("<no mac>w")
+                    
+                try:
+                    write_output(f"{device["serial"]}|")
+                except KeyError as e:
+                    write_output("<no serial>|")    
+
+                try:
+                    write_output(f"{user["phoneNumbers"][0]["value"]}|")
+                    write_output(f"{user["phoneNumbers"][1]["value"]}|")
+                except KeyError as e:
+                    write_output("<no phone numbers>|")    
+                write_output("\n")
+
         except KeyError as e:
             pass
-        print("\n", end='')
-    
+    print(f"Sum {sum}, Workspace {workspace_num}, User {user_num}")
     
     return None
 
 
 if __name__ == "__main__":
     main(1,2,3,45,6, s=10, c=20)
+    
